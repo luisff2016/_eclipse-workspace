@@ -1,0 +1,3 @@
+module helloWorld {
+	exports helloWorld;
+}
